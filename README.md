@@ -12,8 +12,11 @@ Lastly, it creates a small .bat file you can click which instantly pulls from go
 
 ## How to use
 1.) Ask a photographer friend to upload pictures to a google drive that you've created.
+
 1a.) If you're subscribing to a drive folder that they own, right click and "Add Shortcut" to "My Drive".
+
 2.) Download the code as a zip, unzip it, and spam-click "setuprclone" until you are satisfied. You only have to click it once, though.
+
 3.) Set the folder that just opened (with your pictures) as the folder to use as your backgrounds via "Personalization" in Windows.
 
 ## If you want to contribute
