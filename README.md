@@ -6,7 +6,7 @@ This is a batch script that works on windows, namely, windows 11. It will probab
 If you'd like to help me test this on other machines to get the functionality added, please reach out.
 
 ## What this does
-This download RCLONE (open source, here: https://rclone.org/drive/) and sets it up for google drive connection.
+This downloads RCLONE (open source, here: https://rclone.org/drive/) and sets it up for google drive connection.
 It also sets this up for default usage on your computer, and creates a folder of the pictures from google drive.
 Lastly, it creates a small .bat file you can click which instantly pulls from google drive (otherwise it will do so at startup).
 
