@@ -3,11 +3,14 @@ A handy doodad that automatically updates your wallpapers based on a google driv
 
 ## Who it's for
 This is a batch script that works on windows, namely, windows 11. It will probably work on windows 10, but no guarantees. 
+
 If you'd like to help me test this on other machines to get the functionality added, please reach out.
 
 ## What this does
 This downloads RCLONE (open source, here: https://rclone.org/drive/) and sets it up for google drive connection.
+
 It also sets this up for default usage on your computer, and creates a folder of the pictures from google drive.
+
 Lastly, it creates a small .bat file you can click which instantly pulls from google drive (otherwise it will do so at startup).
 
 ## How to use
@@ -21,7 +24,12 @@ Lastly, it creates a small .bat file you can click which instantly pulls from go
 
 ## If you want to contribute
 Feel free! Please give me a heads up and a very detailed contribution note if you do. Hope to add some more functionalities, such as:
+
  • Automatically add the folder to your wallpaper rotation (this is difficult, but can number the files as they come in then cycle through numbers)
+ 
  • Automatically delete the previous pictures from your folder if they are no longer in google drive (or, move them somewhere—allow user to choose)
+ 
  • Add dropbox/other functionality
+ 
  • Make it into an .exe with a vague license and a readme so it's not as "anti-firewall-friendly"
+ 
