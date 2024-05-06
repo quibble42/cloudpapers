@@ -33,3 +33,5 @@ Feel free! Please give me a heads up and a very detailed contribution note if yo
  
  • Make it into an .exe with a vague license and a readme so it's not as "anti-firewall-friendly"
  
+## Having Issues?
+If you're having issues, please contact me as I would love to have information from another system.
