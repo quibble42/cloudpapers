@@ -29,7 +29,7 @@ Feel free! Please give me a heads up and a very detailed contribution note if yo
  
  • Automatically delete the previous pictures from your folder if they are no longer in google drive (or, move them somewhere—allow user to choose)
  
- • Add dropbox/other drive functionality
+ • Add dropbox/other drive functionality 
  
  • Make it into an .exe with a vague license and a readme so it's not as "anti-firewall-friendly"
  
