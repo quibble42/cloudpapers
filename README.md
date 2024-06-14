@@ -1,4 +1,4 @@
-# Cloudpapers
+# Cloudpapers 
 A handy doodad that automatically updates your wallpapers based on a google drive you subscribe to.
 
 ## Who it's for
