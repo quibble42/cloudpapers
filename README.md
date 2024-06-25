@@ -2,7 +2,7 @@
 A handy doodad that automatically updates your wallpapers based on a google drive you subscribe to.
 
 ## Who it's for
-This is a batch script that works on windows, namely, windows 11. It will probably work on windows 10, but no guarantees. 
+This is a batch script that works on windows, namely, windows 11. It will probably work on windows 10, but no guarantees.
 
 If you'd like to help me test this on other machines to get the functionality added, please reach out. 
 
